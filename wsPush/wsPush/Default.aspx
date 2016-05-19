@@ -15,7 +15,7 @@
         
         <h2>
         
-        <asp:Label ID="Label2" runat="server" Text="Enviar Notificación" CssClass="text-capitalize"></asp:Label>
+        <asp:Label ID="Label2" runat="server" Text="Enviar Notificaciónn" CssClass="text-capitalize"></asp:Label>
         </h2>
         <br />
         <br />
