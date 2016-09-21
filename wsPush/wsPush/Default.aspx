@@ -6,7 +6,7 @@
 
     </title></head><body><form id="form1" runat="server">
         <h1>
-        <asp:Label ID="Label1" runat="server" Text="Servidor de Envio de Mensajes" style="text-align: center" CssClass="text-primary"></asp:Label>
+        <asp:Label ID="Label1" runat="server" Text="Servicio de envío de notificaciones" style="text-align: center" CssClass="text-primary"></asp:Label>
         
         </h1>
         
@@ -15,7 +15,7 @@
         
         <h2>
         
-        <asp:Label ID="Label2" runat="server" Text="Enviar Notificaciónn" CssClass="text-capitalize"></asp:Label>
+        <asp:Label ID="Label2" runat="server" Text="Enviar Notificación" CssClass="text-capitalize"></asp:Label>
         </h2>
         <br />
         <br />
@@ -23,7 +23,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Label ID="Label3" runat="server" Text="Título" CssClass="text-info"></asp:Label>
         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         <asp:TextBox ID="txtTitulo" runat="server" Width="390px"></asp:TextBox>
          <br />
         <br />
